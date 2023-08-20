@@ -14,4 +14,4 @@ spec:
   source:
     path: headlamp
     repoURL: git@github.com:pasiol/kubespray-gitops.git
-    targetRevision: feature/metallb-app
+    targetRevision: feature/headlamp
