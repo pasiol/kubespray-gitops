@@ -11,3 +11,7 @@ Bootstrap Kubernetes cluster using following repos:
 
 - metallb for loadbalancing and exposing external ips
 - headlamp Kubernetes api GUI
+
+## Issues
+
+- https://github.com/headlamp-k8s/headlamp/issues/961
