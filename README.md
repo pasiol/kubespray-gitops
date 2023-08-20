@@ -5,8 +5,9 @@
 Bootstrap Kubernetes cluster using following repos:
 
 - https://github.com/pasiol/kubespray-kvm-bootsrap
-- https://github.com/kubernetes-sigs/kubespray.git
+- https://github.com/pasiol/kubespray/tree/provisioning/k8s-dev
 
 ## App of Apps
 
-- metallb for loadbalancing and and exposing external ips
+- metallb for loadbalancing and exposing external ips
+- headlamp Kubernetes api GUI
