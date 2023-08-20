@@ -15,3 +15,7 @@ spec:
     path: headlamp
     repoURL: git@github.com:pasiol/kubespray-gitops.git
     targetRevision: feature/headlamp
+    helm:
+      parameters:
+      - name: --namespace
+        value: kube-system
